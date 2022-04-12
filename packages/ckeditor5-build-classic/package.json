@@ -47,6 +47,7 @@
     "@ckeditor/ckeditor5-typing": "^34.0.0"
   },
   "devDependencies": {
+    "@ckeditor/ckeditor5-alignment": "^34.0.0",
     "@ckeditor/ckeditor5-core": "^34.0.0",
     "@ckeditor/ckeditor5-dev-utils": "^30.0.0",
     "@ckeditor/ckeditor5-dev-webpack-plugin": "^30.0.0",
